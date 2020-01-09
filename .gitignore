@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+*.com.txt
 
 # Distribution / packaging
 .Python
